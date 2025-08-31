@@ -2,7 +2,7 @@
 
 ### Step 1:
 Download the .cfg files and move them to your game directory. Don't delete the custom folder, just leave it like that.  
-**Make sure you go to ``game\core\cfg``, NOT ``game\csgo\cfg``**  
+**My game directory is stored in ``game\core\cfg``, not ``game\csgo\cfg`` for some reason. If you know your configs work in \csgo\ then use that.**  
 > For me this will be  
 > ``C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\core\cfg``
 
